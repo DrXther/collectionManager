@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\addcollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\addcollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\addcollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\addcollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\editcollectionitemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\editcollectionitemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\collectionitemslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\collectionitemslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\collectionitemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\collectionitemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|c:\\users\\dominik\\source\\repos\\kolekcje\\kolekcje\\editcollectionitemslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03DB3B1-99BA-488B-AF2F-1A1D33CA6DE4}|kolekcje\\kolekcje.csproj|solutionrelative:kolekcje\\editcollectionitemslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "editCollectionItemsListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\editCollectionItemsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "kolekcje\\editCollectionItemsListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\editCollectionItemsListPage.xaml.cs",
+              "RelativeToolTip": "kolekcje\\editCollectionItemsListPage.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:27:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "collectionItemsListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\collectionItemsListPage.xaml",
+              "RelativeDocumentMoniker": "kolekcje\\collectionItemsListPage.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\collectionItemsListPage.xaml",
+              "RelativeToolTip": "kolekcje\\collectionItemsListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T07:27:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "collectionItemsListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\collectionItemsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "kolekcje\\collectionItemsListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\collectionItemsListPage.xaml.cs",
+              "RelativeToolTip": "kolekcje\\collectionItemsListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:31:54.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "editCollectionItemsListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\editCollectionItemsListPage.xaml",
+              "RelativeDocumentMoniker": "kolekcje\\editCollectionItemsListPage.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\editCollectionItemsListPage.xaml",
+              "RelativeToolTip": "kolekcje\\editCollectionItemsListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T13:29:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addCollectionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\addCollectionPage.xaml",
+              "RelativeDocumentMoniker": "kolekcje\\addCollectionPage.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\addCollectionPage.xaml",
+              "RelativeToolTip": "kolekcje\\addCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T07:05:17.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\Models\\Collection.cs",
+              "RelativeDocumentMoniker": "kolekcje\\Models\\Collection.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\Models\\Collection.cs",
+              "RelativeToolTip": "kolekcje\\Models\\Collection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:07:34.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addCollectionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\addCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "kolekcje\\addCollectionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\kolekcje\\kolekcje\\addCollectionPage.xaml.cs",
+              "RelativeToolTip": "kolekcje\\addCollectionPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:09:45.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

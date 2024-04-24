@@ -1,0 +1,32 @@
+﻿
+#Headbar 
+{
+    background-color: #B05451;
+    color: #EBC4B9;
+    text-align: center;
+    font-size: 35;
+}
+
+.button {
+    background-color: #DE8A4B;
+    color: #EBC4B9;
+    padding: 10 20;
+    border-radius: 15;
+    margin: 5;
+    width: 300;
+}
+
+.pageBackground 
+{
+    background-color: #CD775F;
+}
+
+.entryStyle 
+{
+    background-color: #B05451;
+    color: #EBC4B9;
+    margin: 5 0;
+    padding: 10 15;
+    border-radius: 5;
+    width: 300;
+}

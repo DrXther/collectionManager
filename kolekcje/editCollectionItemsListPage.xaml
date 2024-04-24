@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="kolekcje.editCollectionItemsListPage"
+             Title="editCollectionItemsListPage">
+    <Shell.TitleView>
+        <Grid>
+            <Label Text="Edytuj zawartość kolekcji" x:Name="Headbar"/>
+        </Grid>
+    </Shell.TitleView>
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/Resources/Styles/editCollectionItemsListPageStyle.css" />
+    </ContentPage.Resources>
+
+    <StackLayout StyleClass="pageBackground">
+        <ListView x:Name="collectionItemsListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" StyleClass="collectionItems">
+                            <Label Text="{Binding Id}" StyleClass="studentName" x:Name="Id"/>
+                            <Label Text="{Binding ItemName}" StyleClass="studentName" x:Name="itemName"/>
+                            <Label Text="{Binding ItemState}" StyleClass="studentName" x:Name="itemState"/>
+                            <Button Text="Edytuj" Clicked="editCollectionItem" CommandParameter="{Binding .}" StyleClass="editButton"/>
+                            <Button Text="Usuń" Clicked="deleteCollectionItem" CommandParameter="{Binding .}" StyleClass="delButton"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Dodaj nowy przedmiot do kolekcji:" StyleClass="LabelStyle"/>
+        <Entry x:Name="newItemNameEntry" Placeholder="Wprowadź nazwę nowego przedmiotu" StyleClass="entryStyle"/>
+        <Entry x:Name="newItemStateEntry" Placeholder="Wprowadź stan nowego przedmiotu" StyleClass="entryStyle"/>
+        <Button Text="Dodaj nowy przedmiot" Clicked="addNewItem" StyleClass="button"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,93 @@
+﻿
+#Headbar 
+{
+    background-color: #B05451;
+    color: #EBC4B9;
+    text-align: center;
+    font-size: 35;
+}
+
+.button {
+    background-color: #DE8A4B;
+    color: #EBC4B9;
+    padding: 10 20;
+    border-radius: 15;
+    margin: 5;
+    width: 300;
+}
+
+.pageBackground 
+{
+    background-color: #CD775F;
+}
+
+contentView 
+{
+    background-color: #EBC4B9;
+    color: #5B566E;
+    padding: 10 20;
+    margin: 5;
+    width: 350;
+    height: 65;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delButton {
+    background-color: #E03328;
+    color: #EBC4B9;
+}
+
+.editButton 
+{
+    background-color: #7CAFE2;
+    color: #EBC4B9;
+    margin-left: 50;
+}
+
+.collectionName
+{
+    font-size:25;
+}
+
+.entryStyle 
+{
+    background-color: #B05451;
+    color: #EBC4B9;
+    margin: 5 0;
+    padding: 10 15;
+    border-radius: 5;
+    width: 300;
+}
+
+.collectionItems 
+{
+    background-color: #934644;
+    color: #EBC4B9;
+    padding: 10 20;
+    margin: 5;
+    width: 850;
+    height: 65;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LabelStyle {
+    color: #EBC4B9;
+    text-align: center;
+}
+
+#Id {
+    width: 30;
+    text-align: end;
+}
+
+#itemName
+{
+    width:250;
+}
+
+#itemState
+{
+    width:250;
+}

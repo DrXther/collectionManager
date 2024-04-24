@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="kolekcje.MainPage">
+    
+    <Shell.TitleView>
+        <Grid>
+            <Label Text="Witamy w systemie zarządzania kolekcjami" x:Name="Headbar"/>
+        </Grid>
+    </Shell.TitleView>
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/Resources/Styles/MainPageStyle.css" />
+    </ContentPage.Resources>
+
+
+    <StackLayout StyleClass="pageBackground">
+        <ScrollView x:Name="collectionScrollView">
+            <StackLayout x:Name="collectionStackLayout"/>
+        </ScrollView>
+        <Button Text="Dodaj nową kolekcję" Clicked="onAddCollectionClicked" StyleClass="button"/>
+    </StackLayout>
+
+</ContentPage>
